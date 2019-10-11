@@ -1,0 +1,10 @@
+C:\Users\Julio\source\repos\RemoteScreenServer\RemoteScreenServer\bin\Debug\RemoteScreenServer.exe.config
+C:\Users\Julio\source\repos\RemoteScreenServer\RemoteScreenServer\bin\Debug\RemoteScreenServer.exe
+C:\Users\Julio\source\repos\RemoteScreenServer\RemoteScreenServer\bin\Debug\RemoteScreenServer.pdb
+C:\Users\Julio\source\repos\RemoteScreenServer\RemoteScreenServer\obj\Debug\RemoteScreenServer.csprojAssemblyReference.cache
+C:\Users\Julio\source\repos\RemoteScreenServer\RemoteScreenServer\obj\Debug\RemoteScreenServer.Form1.resources
+C:\Users\Julio\source\repos\RemoteScreenServer\RemoteScreenServer\obj\Debug\RemoteScreenServer.Properties.Resources.resources
+C:\Users\Julio\source\repos\RemoteScreenServer\RemoteScreenServer\obj\Debug\RemoteScreenServer.csproj.GenerateResource.cache
+C:\Users\Julio\source\repos\RemoteScreenServer\RemoteScreenServer\obj\Debug\RemoteScreenServer.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\RemoteScreenServer\RemoteScreenServer\obj\Debug\RemoteScreenServer.exe
+C:\Users\Julio\source\repos\RemoteScreenServer\RemoteScreenServer\obj\Debug\RemoteScreenServer.pdb
